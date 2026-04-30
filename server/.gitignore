@@ -7,6 +7,7 @@ dist/
 build/
 
 # Files
+.env
 .DS_Store
 *.log
 *.js.map
